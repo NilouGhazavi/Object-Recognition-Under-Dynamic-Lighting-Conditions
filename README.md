@@ -18,4 +18,4 @@ This repository contains the following:
 
 - Documentation and supplementary materials.
 
-- Please refer to the notebooks and reports for a comprehensive understanding of the study, including the methodology, experimental setup, and analysis of the results.
+- Please refer to the notebooks and reports for a comprehensive understanding of the study, including the methodology and analysis of the results.
